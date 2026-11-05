@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import '../core/constants/app_colors.dart';
-import '../core/constants/app_styles.dart';
 
 /// Header melengkung (Curved Organic Header) persis sesuai gambar referensi
 /// Memiliki kurva asimetris organik di bagian bawah dan emblem logo toga di tengah
